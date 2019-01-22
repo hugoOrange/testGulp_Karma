@@ -1,3 +1,5 @@
 node_modules
-
+jshint.log
 dist
+
+src
